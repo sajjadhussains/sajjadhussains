@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **Electronics and Communication Engineering**
 
-- 🌱 I’m currently learning **Python Django,Data structure and Algorithm**
+- 🌱 I’m currently learning **Python Django ,Data structure and Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://sazzadshuvo.netlify.app/](https://sazzadshuvo.netlify.app/)
 
